@@ -1,0 +1,37 @@
+body {
+    background: rgb(164, 193, 255);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(20, 16, 209);
+}
+
+.container {
+    /* Centre le contenu */
+    text-align: center;
+    /* Bordure */
+    border: 5px solid rgb(155, 123, 212);
+    /* Couleur du fond */
+    background-color:lightcyan;
+}
+
+table {
+    /* Couleur du fond */
+    background-color:lightcyan;
+    /* Largeur */
+    width: 100%;
+    /* Espacement entre le contenu et la bordure */
+    padding: 10px;
+    /* Bordure */
+    border: 5px solid rgb(155, 123, 212);
+    /* Couleur du contenu */
+    color: rgb(155, 123, 212);
+    /* Espace en bas en dehors des "blocs" */
+    margin-bottom: 20px;
+}
+
+img {
+    padding: center;
+    width: 80%;
+}
